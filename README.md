@@ -1,5 +1,5 @@
 # Rain-Alert
-Created a program in Python 3 that will text the user if it will rain in their area. 
+Created a program in Python 3 that will send an sms notification to the user if it will rain in their area that day. 
 
 This program was created utilizing the twilio api. 
   https://www.twilio.com/
